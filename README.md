@@ -22,7 +22,7 @@ def ApplcationModule do
 end
 
 # With config_getters
-def ApplcationModule do
+def ApplicationModule do
   use ConfigGetters
 
   config_getters :my_app, [:key1, :key2, :key3]
@@ -45,4 +45,8 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/config_getters](https://hexdocs.pm/config_getters).
+
+## License
+
+config_getters source code is licensed under the [MIT License](LICENSE.md).
 
