@@ -1,5 +1,7 @@
 # config_getters 
 
+[![Travis Build](https://api.travis-ci.org/jbernardo95/config_getters.svg?branch=master)](https://travis-ci.org/jbernardo95/config_getters/)
+
 Simple config value getter generator for Elixir applications.
 
 ```elixir
