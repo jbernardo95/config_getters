@@ -49,5 +49,4 @@ The project documentation can be found [here](https://hexdocs.pm/config_getters/
 
 ## License
 
-config_getters source code is licensed under the [MIT License](LICENSE.md).
-
+config_getters source code is licensed under the [MIT License](LICENSE).
